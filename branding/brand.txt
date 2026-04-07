@@ -1,0 +1,2 @@
+Primary Color: #4D4D4D
+Secondary Color: #32383D
